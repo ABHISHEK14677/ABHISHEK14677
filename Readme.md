@@ -56,7 +56,7 @@ I believe in learning by doing, constantly practicing on platforms like **TryHac
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](www.linkedin.com/in/abhishek14677)
+[![LinkedIn](https://www.linkedin.com/in/abhishek14677/)
 [![GitHub](https://github.com/ABHISHEK14677)
 
 ---
